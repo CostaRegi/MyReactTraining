@@ -1,0 +1,28 @@
+
+
+div#box {
+    background-color: #1f2833;
+    border-radius: 5px;
+    color: white;
+}
+
+div#box p {
+    margin: 0;
+    padding: 20px 0 20px 0;
+    text-align: center;
+    font-size: 18px;
+    background-color:#1a1a1d;
+}
+
+div#box article {
+    padding: 20px;
+}
+
+div#media {
+    float: left;
+    margin: 0 0 0 10px;
+}
+
+div#media img {
+    width: 50px;
+}
